@@ -1,0 +1,18 @@
+{
+  "name": "fshop",
+  "version": "1.0.0",
+  "description": "My slick Nuxt.js project",
+  "author": "MahasanDigital",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env HOST=localhost PORT=3040 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^6.0.3",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
