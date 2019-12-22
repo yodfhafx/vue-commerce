@@ -11,7 +11,7 @@
           </h2>   
         </div>
       </div>
-    </!-->   
+    </section> -->
       
     <section class="section">
       <div class="box">
@@ -34,6 +34,9 @@
                     <a class="button is-primary">
                       Search
                     </a>
+                    <!-- <a class="button is-warning" @click="$store.dispatch('fireTest')" >
+                      Test Firebase
+                    </a> -->
                   </p>
                 </div>
           </div>    
